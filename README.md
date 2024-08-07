@@ -1,5 +1,5 @@
 ## Hello there 👋
 
-  **This is my GitHub profile**
+  **Esse é meu perfil no GitHub**
 
-  **My name is Davi and I am an Alura student**
+  **Meu nome é Davi e eu sou um estudante**
